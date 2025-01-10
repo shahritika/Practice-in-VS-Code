@@ -1,0 +1,36 @@
+# print("sum:", 4 + 3)
+# print("difference:", 4 - 3)
+# print("product:", 4 * 3)
+# print("divison:", 4 / 3)
+# print("floor division:", 4 // 3)
+# print("remainder:", 4 / 3)
+# print(" remainder:", 4 % 3)
+# print(" exponentiation:", 4 ** 3)
+# Assignment Operators
+# n1 = 5
+# n2 = n1
+# print(n1, n2)
+# n2 *= n1
+# print(n1, n2)
+#Comparison Operator
+n1 = 5
+n2 = 3
+print(n1>n2)
+
+# Logical operators
+# expression1 = 2 > 1
+# expression2 = 5 < 4
+# print("expressio1 and expression2:", expression1 and expression2)
+# print(" exxpression1 or expression2:", expression1 or expression2)
+# print(" not exp1:", not(expression1))
+
+# Identity Operators
+# x = 5
+# y = 5
+# print("if x is y:", x is y )
+# print("if x is not y:", x is not y)
+
+# Membership Operator
+fruits = ["apple","banana", "cherry"]
+print("if banana is present in fruits:", "banana"  in fruits)
+print(" if mango is not present in fruits:", "mango" not in fruits)
